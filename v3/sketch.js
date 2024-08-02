@@ -24,7 +24,7 @@ function draw() {
         cell.move();
         cell.display();
         cell.reproduce();
-        cell.age();
+        cell.incrementAge(); // Renamed method
         cell.checkInteractions();
         if (cell.isDead()) {
             cells.splice(i, 1);
@@ -83,7 +83,7 @@ class Cell {
         }
     }
 
-    age() {
+    incrementAge() { // Renamed method
         this.age++;
     }
 
