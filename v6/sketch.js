@@ -32,7 +32,7 @@ function draw() {
         cell.move();
         cell.display();
         cell.reproduce();
-        cell.age();
+        cell.incrementAge(); // Changed from cell.age() to cell.incrementAge()
         cell.checkInteractions();
         cell.checkFood();
         if (cell.isDead()) {
@@ -114,7 +114,7 @@ class Cell {
         }
     }
 
-    age() {
+    incrementAge() { // Changed from age() to incrementAge()
         this.age++;
     }
 
