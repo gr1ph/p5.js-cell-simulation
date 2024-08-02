@@ -15,7 +15,7 @@
 
 All notable changes to this project will be documented in this file.
 
-- Aside the change dates you will see imported for the first 6 versions this is because I worked on this project outside of github and got all the way up to version 6 before uploading it, that is also why it is the same date.
+- Aside the change dates you will see imported for the first 6 versions this is because I worked on this project outside of github and got all the way up to version 6 before uploading it, that is also why they have the same date.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
