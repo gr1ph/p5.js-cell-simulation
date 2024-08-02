@@ -1,2 +1,2 @@
-# p5.js-cell-simulation
-Like this? Check out my repository p5.js-life-simulation
+# Cell Simulation in p5.js
+
